@@ -41,7 +41,7 @@ function getTimeRemaining(endtime) {
 	var timeinterval = setInterval(updateClock, 1000);
   }
   
-  var deadline="August 31 2021 15:00:00 GMT+0300"; 
+  var deadline="August 31 2022 15:00:00 GMT+0300"; 
 
 initializeClock('countdown', deadline);
 /*scroll*/ 
